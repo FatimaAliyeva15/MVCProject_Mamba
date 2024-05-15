@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Business.deps.json
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Business.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Business.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Core.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Data.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Data.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\bin\Debug\net7.0\Mamba_Core.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Bu.9D94C9B7.Up2Date
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\refint\Mamba_Business.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\Mamba_Business.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Business\obj\Debug\net7.0\ref\Mamba_Business.dll

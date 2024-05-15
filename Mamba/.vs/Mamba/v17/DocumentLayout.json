@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Mamba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|solutionrelative:mamba_core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_business\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|solutionrelative:mamba_business\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|solutionrelative:mamba_data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_business\\exceptions\\employee\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|solutionrelative:mamba_business\\exceptions\\employee\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_business\\exceptions\\employee\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|solutionrelative:mamba_business\\exceptions\\employee\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_business\\exceptions\\employee\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|solutionrelative:mamba_business\\exceptions\\employee\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_business\\services\\abstracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E682FCC-45D0-4C8C-9BD9-F58ED17E0EB8}|Mamba_Business\\Mamba_Business.csproj|solutionrelative:mamba_business\\services\\abstracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_data\\repositoryconcretes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|solutionrelative:mamba_data\\repositoryconcretes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_core\\reposirotyabstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|solutionrelative:mamba_core\\reposirotyabstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_core\\reposirotyabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|solutionrelative:mamba_core\\reposirotyabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|solutionrelative:mamba_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178FA550-C6A7-45F6-B7CF-D87B4ED67C21}|Mamba_Core\\Mamba_Core.csproj|solutionrelative:mamba_core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A3A10A-EC11-4346-A9A8-8F62A103F0BF}|Mamba\\Mamba.csproj|solutionrelative:mamba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_data\\migrations\\20240515192317_addcreateemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|solutionrelative:mamba_data\\migrations\\20240515192317_addcreateemployeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|c:\\users\\asus\\source\\repos\\mamba\\mamba_data\\migrations\\20240515172458_addempoyeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308D70D-87C1-41FC-9618-B5787FF77EA9}|Mamba_Data\\Mamba_Data.csproj|solutionrelative:mamba_data\\migrations\\20240515172458_addempoyeetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T20:03:54.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240515192317_AddCreateEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\Migrations\\20240515192317_AddCreateEmployeeTable.cs",
+              "RelativeDocumentMoniker": "Mamba_Data\\Migrations\\20240515192317_AddCreateEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\Migrations\\20240515192317_AddCreateEmployeeTable.cs",
+              "RelativeToolTip": "Mamba_Data\\Migrations\\20240515192317_AddCreateEmployeeTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:23:17.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:31:41.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:29:32.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwGkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:26:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:12:10.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:11:47.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:11:31.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAnwCoBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:10:56.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Mamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Mamba\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:10:47.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Mamba\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Mamba\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-15T18:08:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Exceptions\\Employee\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Mamba_Business\\Exceptions\\Employee\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Exceptions\\Employee\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Mamba_Business\\Exceptions\\Employee\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:56:13.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Exceptions\\Employee\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Mamba_Business\\Exceptions\\Employee\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Exceptions\\Employee\\FileSizeException.cs",
+              "RelativeToolTip": "Mamba_Business\\Exceptions\\Employee\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:51:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Exceptions\\Employee\\FileContentTypeException.cs",
+              "RelativeDocumentMoniker": "Mamba_Business\\Exceptions\\Employee\\FileContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Exceptions\\Employee\\FileContentTypeException.cs",
+              "RelativeToolTip": "Mamba_Business\\Exceptions\\Employee\\FileContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:48:52.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Mamba_Business\\Services\\Concretes\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeToolTip": "Mamba_Business\\Services\\Concretes\\EmployeeService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:39:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Mamba_Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "RelativeToolTip": "Mamba_Business\\Services\\Abstracts\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:36:13.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Mamba_Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "RelativeToolTip": "Mamba_Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:34:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\ReposirotyAbstracts\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Mamba_Core\\ReposirotyAbstracts\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\ReposirotyAbstracts\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Mamba_Core\\ReposirotyAbstracts\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:33:55.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Mamba_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Mamba_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:28:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\ReposirotyAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Mamba_Core\\ReposirotyAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\ReposirotyAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Mamba_Core\\ReposirotyAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:26:20.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240515172458_AddEmpoyeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\Migrations\\20240515172458_AddEmpoyeeTable.cs",
+              "RelativeDocumentMoniker": "Mamba_Data\\Migrations\\20240515172458_AddEmpoyeeTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\Migrations\\20240515172458_AddEmpoyeeTable.cs",
+              "RelativeToolTip": "Mamba_Data\\Migrations\\20240515172458_AddEmpoyeeTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:24:58.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\appsettings.json",
+              "RelativeDocumentMoniker": "Mamba\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\appsettings.json",
+              "RelativeToolTip": "Mamba\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T17:23:15.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mamba_Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Mamba_Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:16:15.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Mamba_Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\Models\\Employee.cs",
+              "RelativeToolTip": "Mamba_Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:12:48.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Mamba_Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba_Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Mamba_Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:12:27.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADMCAAAAAAAAAAAUwEcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:59:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAYwLAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:58:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mamba\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mamba\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:57:57.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mamba\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mamba\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:57:46.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Program.cs",
+              "RelativeDocumentMoniker": "Mamba\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Mamba\\Mamba\\Program.cs",
+              "RelativeToolTip": "Mamba\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:57:15.365Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

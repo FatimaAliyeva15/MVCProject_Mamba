@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\bin\Debug\net7.0\Mamba_Data.deps.json
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\bin\Debug\net7.0\Mamba_Data.runtimeconfig.json
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\bin\Debug\net7.0\Mamba_Data.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\bin\Debug\net7.0\Mamba_Data.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\bin\Debug\net7.0\Mamba_Core.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\bin\Debug\net7.0\Mamba_Core.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.csproj.Up2Date
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\refint\Mamba_Data.dll
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.pdb
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\Mamba_Data.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Mamba\Mamba_Data\obj\Debug\net7.0\ref\Mamba_Data.dll
